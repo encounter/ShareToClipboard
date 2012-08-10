@@ -3,4 +3,6 @@
     <string name="app_name">Clipboard</string>
     <string name="success">Copied to clipboard!</string>
     <string name="no_content">No shared content.</string>
+    <string name="saved_image">Saved to downloads!</string>
+    <string name="error_saving">Error saving image.</string>
 </resources>
